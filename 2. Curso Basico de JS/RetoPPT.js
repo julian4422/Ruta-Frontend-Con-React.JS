@@ -20,4 +20,4 @@ function ppt(user, pc) {
     }
 };
 
-ppt(pi,ti);
+ppt(ti,ti);
