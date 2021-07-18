@@ -1,0 +1,16 @@
+{
+  "name": "6.-js-npm",
+  "version": "1.0.0",
+  "description": "construir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Julian E <julian2000es7@gmail.com>",
+  "license": "MIT"
+}

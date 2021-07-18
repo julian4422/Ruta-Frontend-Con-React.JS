@@ -1,0 +1,21 @@
+{
+  "name": "touch-index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian E <julian2000es7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "webpack": "^5.45.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.22.1"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.31.0"
+  }
+}
